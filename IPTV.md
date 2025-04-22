@@ -35,6 +35,9 @@
 | Radio Free Rock | [stream](https://radioserver11.profesionalhosting.com:19250/live) | [web](https://radiofreerock.com/) | [logo](https://radiofreerock.com/wp-content/uploads/2020/01/logo_free_rock_radio_negro.png) | - | - |
 | ReviRadio | [stream](https://uk5freenew.listen2myradio.com/live.mp3?typeportmount=s1_17961_stream_516656782) | [web](https://reviradio.radio12345.com/) | [logo](https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-1/298712200_487818786678051_1206113844650504899_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=UCyJKwclRsQQ7kNvwEQLxC8&_nc_oc=AdmH1kOc375WsijkueJV4PEPFEWECgdx-5prrcVoJ7sSy38EgUpQpPSuIaC1yqp6o09AbbkXqghopdgNaSBbWatl&_nc_zt=24&_nc_ht=scontent-bcn1-1.xx&_nc_gid=wtk7_zlHfuKRgiObyPgGvA&oh=00_AfH8f_07Dk_KFm7XIIeVl5Ta6HLiWap_wFRc_GYSh_aDUg&oe=680C5DE7) | - | - |
 | Radio Z Rock & Pop Perú | [stream](https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/) | [web](https://radioz.pe) | [logo](https://graph.facebook.com/ZRocknPop/picture?width=200&height=200) | - | - |
+| ReviRadio | [stream](https://uk5freenew.listen2myradio.com/live.mp3?typeportmount=s1_17961_stream_516656782) | [web](https://reviradio.radio12345.com/) | [logo](https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-1/298712200_487818786678051_1206113844650504899_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=UCyJKwclRsQQ7kNvwEQLxC8&_nc_oc=AdmH1kOc375WsijkueJV4PEPFEWECgdx-5prrcVoJ7sSy38EgUpQpPSuIaC1yqp6o09AbbkXqghopdgNaSBbWatl&_nc_zt=24&_nc_ht=scontent-bcn1-1.xx&_nc_gid=wtk7_zlHfuKRgiObyPgGvA&oh=00_AfH8f_07Dk_KFm7XIIeVl5Ta6HLiWap_wFRc_GYSh_aDUg&oe=680C5DE7) | - | - |
+| Sol y Rabia | [stream](https://radio.solyrabia.com.es/listen/solyrabia/radio.mp3) |  [web](http://www.solyrabia.com/) | [logo](http://www.solyrabia.com/assets/logo.png) | - | - |
+| Radio Encubierta | [stream](https://radios.bachistreaming.com/8006/stream) | [web](https://www.facebook.com/profile.php?id=61557920071043) | [logo](https://www.facebook.com/photo/?fbid=122151789860264002&set=a.122098878428264002) | - | - |
 
 ## Radios Autonómicas
 
@@ -44,6 +47,7 @@
 | - | - | - | - | - | - |
 | SI F.M. | [stream](https://broadcast.radioponiente.org:8030/;stream.nsv) | [web](https://sifmradio.es/) | [logo](https://sifmradio.es/wp-content/uploads/2021/01/logoemisora-370x370.jpg) | - | - |
 | The Beerman Club | [stream](https://stream-166.zeno.fm/0tycopnkzcqvv) | [web](https://thebeermanclub.com/radio-online) | [logo](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=861,h=558,fit=crop/YbN9nXoOXQtzMy6E/beerman-club-radio-logo3-AGB4v8rxbMFzkqa5.png) | - | - |
+| Onda Marina Radio | [stream](https://srv7031.dns-lcinternet.com/8052/stream) | [web](http://www.ondamarinaradio.com/) | [logo](https://player.lcinternet.es/v9/cc409_p736/tmp/images/default.jpg) | - | - |
 
 ### Castilla-La Mancha
 
@@ -55,6 +59,9 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Radio Vallekas | [mp3](https://radio.radiobot.org/listen/rvk/rvk.mp3) | [web](https://www.radiovallekas.org) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
+| Agora Sol Radio | [stream](https://cervera.eldialdigital.com:23141/stream) | [web](https://www.agorasolradio.org/) | [logo](https://www.agorasolradio.org/wp-content/themes/agorasolradio/css/img/favicon.png) | - | - |
+| LH Magazin | [stream](https://server01.heplayer.com/8014/stream) | [web](https://www.lhmagazin.com/) | [logo](https://www.lhmagazin.com/wp-content/uploads/2018/07/algo-2-1.png) | - | - |
+| EDM Radio | [stream](https://c22.radioboss.fm:8653/stream) | [web](https://www.edmradio.es/) | [logo](https://www.edmradio.es/wp-content/uploads/2017/10/cropped-cropped-cropped-master-edm-trasparente-1.png) | - | - |
 | Radio Enlace | [stream](https://cervera.eldialdigital.com:25121/stream) | [web](https://www.radioenlace.org) | [logo](https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200) | - | - |
 | Radio Cigüeña | [stream](https://cervera.eldialdigital.com:25171/stream) | [web](https://www.radiociguena.org) | [logo](https://graph.facebook.com/297157036138/picture?width=200&height=200) | - | - |
 | Onda Vallekana | [stream](https://sonic.sistemahost.es/8152/;) | [web](https://www.ondavallekana.es) | [logo](https://pbs.twimg.com/profile_images/1447528417654710279/IlV_01hC_200x200.jpg) | - | - |
@@ -62,9 +69,10 @@
 | Radio Utopía | [mp3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](https://www.radioutopia.org.es) | [logo](https://graph.facebook.com/179099278878655/picture?width=200&height=200) | - | - |
 | Radio Tentación | [stream](https://streaming6.locucionar.com:2020/stream/radiotentacion) | [web](https://www.radiotentacion.com) | [logo](https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200) | - | - |
 | Onda Merlín C Radio | [mp3](https://radio.radiobot.org/listen/omc/directo.mp3) | [web](https://www.omcradio.org/escuchanos/) | [logo](https://graph.facebook.com/OmcRadio/picture?width=200&height=200) | - | - |
-| Radio Morata | [stream](https://cervera.eldialdigital.com:25141/stream) | [web](https://www.radiomorata.com) | [logo]
+| Radio Morata | [stream](https://cervera.eldialdigital.com:25141/stream) | [web](https://www.radiomorata.com) | [logo](https://endirecto.radiomorata.com/assets/icons/icon-512x512.png)
 | Radio Univ. Alcalá Henares | [stream](https://streaming2.elitecomunicacion.es:8066/stream) | [web](https://www.ruah.es/emision-online/) | [logo](https://graph.facebook.com/ruahradio/picture?width=200&height=200) | - | - |
 | Radio Almenara | [stream](https://cervera.eldialdigital.com:25211/stream) | [web](https://radioalmenara.net) | [logo](https://graph.facebook.com/RadioAlmenara/picture?width=200&height=200) | - | - |
+
 ### C. Valenciana
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
