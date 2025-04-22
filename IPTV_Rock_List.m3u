@@ -1,0 +1,146 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
+https://cdnhd.iblups.com/hls/QOX9FHVUCX.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6R4icNJteyinEWbesaRCzu8B33cuKBOp0p-zmMDhv3PDJ2wx13sF8s2UoX9NpBVqX2y93J7ywIdEdsarqHGjIg3nWBgCi2Yy5he0dNliXuPiirL4698cvgHRMe7rZRXEKUnuGOgS7ab8/s220/logo+metaleitor.jpg", group-title="TV Rock", Metaleitor TV2
+https://cdnhd.iblups.com/hls/5mGg1uPXjN.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-6/480554520_620913840695912_492601421810149986_n.jpg", group-title="TV Rock", Metaleitor TV3
+https://cdnhd.iblups.com/hls/69Zww7n1rK.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pulserocktv.com/logos/600X140.jpg", group-title="TV Rock", Pulse Rock TV
+https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/playlist.m3u8?token=b7bb9c08-d593-48a2-bfd7-33018b14b3e5&streamSessionId=ba355f08-3131-4759-8486-06cb1a3b6a9a&code=TELEATLANTIC&expires=1740700800000&playUrl=true&ctrl=1ea95bb1f349796e630acdfb68d98c14daa1f7a6efae55f7f8de0c78c46486fec8dff525fb500aed030f0e29790d82e84550600a9bab5831739e5162e63bf604
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/67cebad8d46fc668e21b0ae8387ae2cd.webp", group-title="TV Rock", ROCK TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-logo="https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png", group-title="TV Local", Radio Buñol TV
+https://castor.streamthatvideo.co:8081/radiobunyol/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200", group-title="Radio Rock", Rock FM
+https://rockfm-cope.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-ijfed.nitrocdn.com/DtYdoFkTGLHFYfuSCOprrunYCajuUVPb/assets/images/optimized/rev-6e32f4c/mariskalrock.com/wp-content/themes/mariskalrock/img/backradio.jpg", group-title="Radio Rock", Mariskalrock Radio
+https://stream.rcast.net/m3u/236128
+
+#EXTINF:-1 tvg-logo="https://elpirata.com/wp-content/themes/yootheme/cache/31/Banner-315ad728.png", group-title="Radio Rock", Emisión Pirata
+http://shaincast.caster.fm:15669/listen.mp3?authnd383264ba7a2e4aaf3763dc99fa897cd
+
+#EXTINF:-1 tvg-logo="https://laantiradio.com/wp-content/uploads/2025/01/la-antiradio-rock.-512jpg.jpg", group-title="Radio Rock", La Antiradio
+https://stream.zeno.fm/jkjslxjr7sntv
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000120720635-ngtgtf-t240x240.jpg", group-title="Radio Rock", Metaleitor Radio
+https://cdnhd.iblups.com/hls/69Zww7n1rK.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/ie_qxoMXROspWazDj7vVbYNO6X5eFb3J78ICHlimVD5B0g3M7L7_vWsPVDP2GvDMnISUzRwnvvNE8grSm0p2KEs=w16383", group-title="Radio Rock", Depredarock
+https://aacplus.rstreaminghd.com/8036/stream
+
+#EXTINF:-1 tvg-logo="https://www.metalpr.com/images/logonormal.png", group-title="Radio Rock", HEAVY METAL MANSION
+https://server10.reliastream.com/proxy/metalprj?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://templariaradio.com/wp-content/uploads/2025/03/cropped-cropped-logotipo-2025-recortado-copia-1.png", group-title="Radio Rock", Templaria Radio
+https://emisiones.com.uy:8152/enlace
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200", group-title="Radio Rock", Radio 3 RNE
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200", group-title="Radio Rock", LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/FmRockandPop/picture?width=200&height=200", group-title="Radio Rock", FM Rock & Pop Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
+
+#EXTINF:-1 tvg-logo="https://fmsermetal.radiostream123.com/users.img/3170676/1659721858/icon_thumb_80_1659721858.jpg", group-title="Radio Rock", FM SER METAL 99.5 MHZ
+https://uk14freenew.listen2myradio.com/live.mp3?typeportmount=s1_23863_stream_266735368
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1616586960155418624/6OJ_HUNq_400x400.jpg", group-title="Radio Rock", Rock y Terror Radio Texas
+https://stream.rcast.net/m3u/72564
+
+#EXTINF:-1 tvg-logo="https://radiofreerock.com/wp-content/uploads/2020/01/logo_free_rock_radio_negro.png", group-title="Radio Rock", Radio Free Rock
+https://radioserver11.profesionalhosting.com:19250/live
+
+#EXTINF:-1 tvg-logo="https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-1/298712200_487818786678051_1206113844650504899_n.jpg", group-title="Radio Rock", ReviRadio
+https://uk5freenew.listen2myradio.com/live.mp3?typeportmount=s1_17961_stream_516656782
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ZRocknPop/picture?width=200&height=200", group-title="Radio Rock", Radio Z Rock & Pop Perú
+https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/
+
+#EXTINF:-1 tvg-logo="https://sifmradio.es/wp-content/uploads/2021/01/logoemisora-370x370.jpg", group-title="Radio Rock", SI F.M.
+https://broadcast.radioponiente.org:8030/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=861,h=558,fit=crop/YbN9nXoOXQtzMy6E/beerman-club-radio-logo3-AGB4v8rxbMFzkqa5.png", group-title="Radio Rock", The Beerman Club
+https://stream-166.zeno.fm/0tycopnkzcqvv
+
+#EXTINF:-1 tvg-logo="https://www.radiokolor.es/img/logo.png", group-title="Radio Rock", Radio Kolor
+https://stream20.usastreams.com/8122/stream
+
+#EXTINF:-1 tvg-logo="http://www.solyrabia.com/assets/logo.png", group-title="Radio Rock", Sol y Rabia
+https://radio.solyrabia.com.es/listen/solyrabia/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://www.facebook.com/photo/?fbid=122151789860264002&set=a.122098878428264002", group-title="Radio Rock", Radio Encubierta
+https://radios.bachistreaming.com/8006/stream
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiovallekas/picture?width=200&height=200", group-title="Radio Rock", Radio Vallekas
+https://radio.radiobot.org/listen/rvk/rvk.mp3
+
+#EXTINF:-1 tvg-logo="https://www.agorasolradio.org/wp-content/themes/agorasolradio/css/img/favicon.png", group-title="Radio Local", Agora Sol Radio
+https://cervera.eldialdigital.com:23141/stream
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1447528417654710279/IlV_01hC_200x200.jpg", group-title="Radio Local", Onda Vallekana
+https://sonic.sistemahost.es/8152/;
+
+#EXTINF:-1 tvg-logo="https://radiomalva.org/wp-content/uploads/2022/03/radiomalva-logo-w.jpg", group-title="Radio Local", Radio Malva
+http://radiomalva.ddns.net:8000/rmbc.mp3
+
+#EXTINF:-1 tvg-logo="https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png", group-title="Radio Local", Radio Buñol
+https://relay.stream.enacast-cloud.com:40294/radiobunyolHD.mp3
+
+#EXTINF:-1 tvg-logo="https://www.pontevedraviva.com/uploads/static/pontevedraviva/logos/logo-squared-200x200.png", group-title="Radio Local", PontevedraViva
+https://server8.emitironline.com:2199/tunein/pontevedra.asx
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioklara/picture?width=200&height=200", group-title="Radio Local", Ràdio Klara
+https://cervera.eldialdigital.com:21111/stream
+
+#EXTINF:-1 tvg-logo="https://www.lhmagazin.com/wp-content/uploads/2018/07/algo-2-1.png", group-title="Radio Local", LH Magazin
+https://server01.heplayer.com/8014/stream
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200", group-title="Radio Local", Caravaca Radio
+http://84.232.12.14:8000/caravacaradio
+
+#EXTINF:-1 tvg-logo="https://player.lcinternet.es/v9/cc409_p736/tmp/images/default.jpg", group-title="Radio Local", Onda Marina Radio
+https://srv7031.dns-lcinternet.com/8052/stream
+
+#EXTINF:-1 tvg-logo="https://www.edmradio.es/wp-content/uploads/2017/10/cropped-cropped-cropped-master-edm-trasparente-1.png", group-title="Radio Local", EDM Radio
+https://c22.radioboss.fm:8653/stream
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/UPVTV/picture?width=200&height=200", group-title="Radio Local", UPV Ràdio
+https://streaming.upv.es/radioupv/onlineradio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200", group-title="Radio Local", Radio Enlace
+https://cervera.eldialdigital.com:25121/stream
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/297157036138/picture?width=200&height=200", group-title="Radio Local", Radio Cigüeña
+https://cervera.eldialdigital.com:25171/stream
+
+#EXTINF:-1 tvg-logo="https://www.aranjuez.es/wp-content/uploads/2016/12/escucha-onda-aranjuez-300x264.png", group-title="Radio Local", Onda Aranjuez
+https://server8.emitironline.com:18544/;.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/179099278878655/picture?width=200&height=200", group-title="Radio Local", Radio Utopía
+http://streaming.radioutopia.org.es:8000/radio-utopia.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200", group-title="Radio Local", Radio Tentación
+https://streaming6.locucionar.com:2020/stream/radiotentacion
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OmcRadio/picture?width=200&height=200", group-title="Radio Local", Onda Merlín C Radio
+https://radio.radiobot.org/listen/omc/directo.mp3
+
+#EXTINF:-1 tvg-logo="https://endirecto.radiomorata.com/assets/icons/icon-512x512.png", group-title="Radio Local", Radio Morata
+https://cervera.eldialdigital.com:25141/stream
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ruahradio/picture?width=200&height=200", group-title="Radio Local", Radio Univ. Alcalá Henares
+https://streaming2.elitecomunicacion.es:8066/stream
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioAlmenara/picture?width=200&height=200", group-title="Radio Local", Radio Almenara
+https://cervera.eldialdigital.com:25211/stream
+ 
