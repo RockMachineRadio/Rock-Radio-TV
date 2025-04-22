@@ -69,7 +69,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Radio Malva | [mp3](http://radiomalva.ddns.net:8000/rmbc.mp3) | [web](https://radiomalva.org/) | [logo](https://radiomalva.org/wp-content/uploads/2022/03/radiomalva-logo-w.jpg) | - | - |
+| Radio Malva | [mp3](http://radiomalva.ddns.net:8000/rmbc.mp3) | [web](https://radiomalva.org/) | [logo](http://radiomalva.org/wp-content/uploads/2022/03/radiomalva-logo-w.jpg) | - | - |
 | Radio Buñol | [mp3](https://relay.stream.enacast-cloud.com:40294/radiobunyolHD.mp3) | [web](https://radiotv.xn--buol-hqa.es/) | [logo](https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png) | - | - |
 | Ràdio Klara | [stream](https://cervera.eldialdigital.com:21111/stream) | [web](https://www.radioklara.org) | [logo](https://graph.facebook.com/radioklara/picture?width=200&height=200) | - | - |
 | UPV Ràdio | [m3u8](https://streaming.upv.es/radioupv/onlineradio/playlist.m3u8) | [web](https://www.upv.es/rtv/radio/directo) | [logo](https://graph.facebook.com/UPVTV/picture?width=200&height=200) | - | - |
