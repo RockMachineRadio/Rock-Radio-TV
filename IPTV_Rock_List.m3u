@@ -106,7 +106,7 @@ https://cervera.eldialdigital.com:21111/stream
 https://server01.heplayer.com/8014/stream
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200", group-title="Radio Local", Caravaca Radio
-https://84.232.12.14:8000/caravacaradio
+http://84.232.12.14:8000/caravacaradio
 
 #EXTINF:-1 tvg-logo="https://player.lcinternet.es/v9/cc409_p736/tmp/images/default.jpg", group-title="Radio Local", Onda Marina Radio
 https://srv7031.dns-lcinternet.com/8052/stream
