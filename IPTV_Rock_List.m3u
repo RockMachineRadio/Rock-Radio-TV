@@ -91,7 +91,7 @@ https://cervera.eldialdigital.com:23141/stream
 https://sonic.sistemahost.es/8152/;
 
 #EXTINF:-1 tvg-logo="https://radiomalva.org/wp-content/uploads/2022/03/radiomalva-logo-w.jpg", group-title="Radio Local", Radio Malva
-https://radiomalva.ddns.net:8000/rmbc.mp3
+http://radiomalva.ddns.net:8000/rmbc.mp3
 
 #EXTINF:-1 tvg-logo="https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png", group-title="Radio Local", Radio Buñol
 https://relay.stream.enacast-cloud.com:40294/radiobunyolHD.mp3
