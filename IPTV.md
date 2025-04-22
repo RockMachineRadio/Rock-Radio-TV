@@ -84,7 +84,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| PontevedraViva | [stream](https://server8.emitironline.com:2199/tunein/pontevedra.asx) | [web](https://www.pontevedraviva.com/) | [logo](https://www.pontevedraviva.com/uploads/static/pontevedraviva/logos/logo-squared-200x200.png) | - | - |
+| PontevedraViva | [stream](https://server8.emitironline.com:9402/radio?1745328886336) | [web](https://www.pontevedraviva.com/) | [logo](https://www.pontevedraviva.com/uploads/static/pontevedraviva/logos/logo-squared-200x200.png) | - | - |
 
 ## Internacionales
 
