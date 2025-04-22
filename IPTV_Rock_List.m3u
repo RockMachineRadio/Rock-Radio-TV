@@ -75,7 +75,7 @@ https://stream-166.zeno.fm/0tycopnkzcqvv
 #EXTINF:-1 tvg-logo="https://www.radiokolor.es/img/logo.png", group-title="Radio Rock", Radio Kolor
 https://stream20.usastreams.com/8122/stream
 
-#EXTINF:-1 tvg-logo="http://www.solyrabia.com/assets/logo.png", group-title="Radio Rock", Sol y Rabia
+#EXTINF:-1 tvg-logo="https://www.solyrabia.com/assets/logo.png", group-title="Radio Rock", Sol y Rabia
 https://radio.solyrabia.com.es/listen/solyrabia/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://www.facebook.com/photo/?fbid=122151789860264002&set=a.122098878428264002", group-title="Radio Rock", Radio Encubierta
@@ -91,7 +91,7 @@ https://cervera.eldialdigital.com:23141/stream
 https://sonic.sistemahost.es/8152/;
 
 #EXTINF:-1 tvg-logo="https://radiomalva.org/wp-content/uploads/2022/03/radiomalva-logo-w.jpg", group-title="Radio Local", Radio Malva
-http://radiomalva.ddns.net:8000/rmbc.mp3
+https://radiomalva.ddns.net:8000/rmbc.mp3
 
 #EXTINF:-1 tvg-logo="https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png", group-title="Radio Local", Radio Buñol
 https://relay.stream.enacast-cloud.com:40294/radiobunyolHD.mp3
@@ -106,7 +106,7 @@ https://cervera.eldialdigital.com:21111/stream
 https://server01.heplayer.com/8014/stream
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200", group-title="Radio Local", Caravaca Radio
-http://84.232.12.14:8000/caravacaradio
+https://84.232.12.14:8000/caravacaradio
 
 #EXTINF:-1 tvg-logo="https://player.lcinternet.es/v9/cc409_p736/tmp/images/default.jpg", group-title="Radio Local", Onda Marina Radio
 https://srv7031.dns-lcinternet.com/8052/stream
