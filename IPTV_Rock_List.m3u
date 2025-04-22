@@ -52,7 +52,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
 
 #EXTINF:-1 tvg-logo="https://fmsermetal.radiostream123.com/users.img/3170676/1659721858/icon_thumb_80_1659721858.jpg", group-title="Radio Rock", FM SER METAL 99.5 MHZ
-https://uk14freenew.listen2myradio.com/live.mp3?typeportmount=s1_23863_stream_266735368
+https://uk14freenew.listen2myradio.com/live.mp3?typeportmount=s1_23863_stream
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1616586960155418624/6OJ_HUNq_400x400.jpg", group-title="Radio Rock", Rock y Terror Radio Texas
 https://stream.rcast.net/m3u/72564
