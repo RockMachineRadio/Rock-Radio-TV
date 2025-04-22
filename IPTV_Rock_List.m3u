@@ -97,7 +97,7 @@ https://radiomalva.ddns.net:8000/rmbc.mp3
 https://relay.stream.enacast-cloud.com:40294/radiobunyolHD.mp3
 
 #EXTINF:-1 tvg-logo="https://www.pontevedraviva.com/uploads/static/pontevedraviva/logos/logo-squared-200x200.png", group-title="Radio Local", PontevedraViva
-https://server8.emitironline.com:2199/tunein/pontevedra.asx
+https://server8.emitironline.com:9402/radio?1745328886336
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radioklara/picture?width=200&height=200", group-title="Radio Local", Ràdio Klara
 https://cervera.eldialdigital.com:21111/stream
