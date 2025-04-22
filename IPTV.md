@@ -21,7 +21,7 @@
 | - | - | - | - | - | - |
 | Rock FM | [m3u8](https://rockfm-cope.flumotion.com/playlist.m3u8) | [web](https://www.rockfm.fm) | [logo](https://graph.facebook.com/RockFM/picture?width=200&height=200) | RockFM.Radio | - |
 | Mariskalrock Radio | [stream](https://media.profesionalhosting.com:8047/stream) | [web](https://mariskalrock.com/) | [logo](https://cdn-ijfed.nitrocdn.com/DtYdoFkTGLHFYfuSCOprrunYCajuUVPb/assets/images/optimized/rev-6e32f4c/mariskalrock.com/wp-content/themes/mariskalrock/img/backradio.jpg) | - | - |
-| Emisión Pirata | [stream](http://shaincast.caster.fm:15669/listen.mp3?authnd383264ba7a2e4aaf3763dc99fa897cd)| [web](https://elpirata.com/) | [logo](https://elpirata.com/wp-content/themes/yootheme/cache/31/Banner-315ad728.png) | - | - |
+| Emisión Pirata | [stream](https://shaincast.caster.fm:15669/listen.mp3?authnd383264ba7a2e4aaf3763dc99fa897cd)| [web](https://elpirata.com/) | [logo](https://elpirata.com/wp-content/themes/yootheme/cache/31/Banner-315ad728.png) | - | - |
 | La Antiradio | [stream](https://stream.zeno.fm/jkjslxjr7sntv) | [web](https://laantiradio.com/) | [logo](https://laantiradio.com/wp-content/uploads/2025/01/la-antiradio-rock.-512jpg.jpg) | - | - |
 | Metaleitor | [m3u8](https://cdnhd.iblups.com/hls/69Zww7n1rK.m3u8) | [web](https://metaleitor.blogspot.com/) | [logo](https://i1.sndcdn.com/avatars-000120720635-ngtgtf-t240x240.jpg) | - | - |
 | Depredarock | [stream](https://aacplus.rstreaminghd.com/8036/stream) | [web](https://sites.google.com/view/depredarock/inicio) | [logo](https://lh6.googleusercontent.com/ie_qxoMXROspWazDj7vVbYNO6X5eFb3J78ICHlimVD5B0g3M7L7_vWsPVDP2GvDMnISUzRwnvvNE8grSm0p2KEs=w16383) | - | - |
