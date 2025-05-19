@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
-https://www.nimo.tv/9c13acf4-4077-480e-84f9-08e1614a54d6
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6R4icNJteyinEWbesaRCzu8B33cuKBOp0p-zmMDhv3PDJ2wx13sF8s2UoX9NpBVqX2y93J7ywIdEdsarqHGjIg3nWBgCi2Yy5he0dNliXuPiirL4698cvgHRMe7rZRXEKUnuGOgS7ab8/s220/logo+metaleitor.jpg", group-title="TV Rock", Metaleitor TV2
-https://i.okcdn.ru/videoPreview?mid=10200652324429&type=37&tkn=qzge65bmQkmaTzMlLNSEuSfOuoo&fn=external_8
-
-#EXTINF:-1 tvg-logo="https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-6/480554520_620913840695912_492601421810149986_n.jpg", group-title="TV Rock", Metaleitor TV3
-https://www.nimo.tv/embed/1286039325
-
 #EXTINF:-1 tvg-logo="https://www.pulserocktv.com/logos/600X140.jpg", group-title="TV Rock", Pulse Rock TV
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/playlist.m3u8?token=b7bb9c08-d593-48a2-bfd7-33018b14b3e5&streamSessionId=ba355f08-3131-4759-8486-06cb1a3b6a9a&code=TELEATLANTIC&expires=1740700800000&playUrl=true&ctrl=1ea95bb1f349796e630acdfb68d98c14daa1f7a6efae55f7f8de0c78c46486fec8dff525fb500aed030f0e29790d82e84550600a9bab5831739e5162e63bf604
 
@@ -29,9 +20,6 @@ https://shaincast.caster.fm:15669/listen.mp3?authnd383264ba7a2e4aaf3763dc99fa897
 
 #EXTINF:-1 tvg-logo="https://laantiradio.com/wp-content/uploads/2025/01/la-antiradio-rock.-512jpg.jpg", group-title="Radio Rock", La Antiradio
 https://stream.zeno.fm/jkjslxjr7sntv
-
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000120720635-ngtgtf-t240x240.jpg", group-title="Radio Rock", Metaleitor Radio
-https://www.nimo.tv/embed/1286039325
 
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/ie_qxoMXROspWazDj7vVbYNO6X5eFb3J78ICHlimVD5B0g3M7L7_vWsPVDP2GvDMnISUzRwnvvNE8grSm0p2KEs=w16383", group-title="Radio Rock", Depredarock
 https://aacplus.rstreaminghd.com/8036/stream
@@ -143,4 +131,15 @@ https://streaming2.elitecomunicacion.es:8066/stream
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioAlmenara/picture?width=200&height=200", group-title="Radio Local", Radio Almenara
 https://cervera.eldialdigital.com:25211/stream
- 
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
+https://www.nimo.tv/9c13acf4-4077-480e-84f9-08e1614a54d6
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6R4icNJteyinEWbesaRCzu8B33cuKBOp0p-zmMDhv3PDJ2wx13sF8s2UoX9NpBVqX2y93J7ywIdEdsarqHGjIg3nWBgCi2Yy5he0dNliXuPiirL4698cvgHRMe7rZRXEKUnuGOgS7ab8/s220/logo+metaleitor.jpg", group-title="TV Rock", Metaleitor TV2
+https://i.okcdn.ru/videoPreview?mid=10200652324429&type=37&tkn=qzge65bmQkmaTzMlLNSEuSfOuoo&fn=external_8
+
+#EXTINF:-1 tvg-logo="https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-6/480554520_620913840695912_492601421810149986_n.jpg", group-title="TV Rock", Metaleitor TV3
+https://www.nimo.tv/embed/1286039325 
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000120720635-ngtgtf-t240x240.jpg", group-title="Radio Rock", Metaleitor Radio
+https://www.nimo.tv/embed/1286039325
