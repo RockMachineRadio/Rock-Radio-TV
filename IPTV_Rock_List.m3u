@@ -5,6 +5,9 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-logo="https://www.pulserocktv.com/logos/600X140.jpg", group-title="TV Rock", Pulse Rock TV
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/playlist.m3u8?token=b7bb9c08-d593-48a2-bfd7-33018b14b3e5&streamSessionId=ba355f08-3131-4759-8486-06cb1a3b6a9a&code=TELEATLANTIC&expires=1740700800000&playUrl=true&ctrl=1ea95bb1f349796e630acdfb68d98c14daa1f7a6efae55f7f8de0c78c46486fec8dff525fb500aed030f0e29790d82e84550600a9bab5831739e5162e63bf604
 
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000120720635-ngtgtf-t240x240.jpg", group-title="Radio Rock", Metaleitor Radio
+https://live-stream.iblups.com/video/8d5a86cf2dbbeab174b79a758f0247603c894bd5.m3u8
+
 #EXTINF:-1 tvg-logo="https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png", group-title="TV Local", Radio Buñol TV
 https://castor.streamthatvideo.co:8081/radiobunyol/tracks-v1a1/mono.m3u8
 
@@ -139,6 +142,3 @@ https://eun11.playlist.ttvnw.net/v1/playlist/CpoGpV0mhzpQbuOUxBz7IcWqFk1mlKWx55u
 
 #EXTINF:-1 tvg-logo="https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-6/480554520_620913840695912_492601421810149986_n.jpg", group-title="TV Rock", Metaleitor TV3
 https://euw32.playlist.ttvnw.net/v1/playlist/CqkGlPHFLOhrLnSyPpa471QaDasN-jjwCBgi47MC36sgOwzJ_FcRDetR5-c2kZrg82X2-u_0kgo-PbWGk7zMJscQ8yh-rf0mhD794oidqCFnfCPhGDnjxhl6epqHAMTIWGMAejX95jafF7hexeSuNuQCy3kRxLCeX8kMx4bmzH9pNb8UapSmsq1VPUvPcKhgGAZ4QeiEmgx99tFtEmR2xDhHbgsQc8_7Ho6CJLHmTQd3PH-1wqe7lDhd1RaK8-yHFxrRMXTXrvTHUKB2Q5brhNxmRuwe01172diCTtH5YjOrcDJC3g9FIMLh49i2wU0280IHVl7MIdZ1FGbzsywCpa4s6cbw0tggMHq0uS99noCAEmdkbfTrG459HGveY_kwtBXYlICv9JIcoP9QC7VwWNrdeQ_8qU47vkqH4nTfC5xN7LWwDeH4cdClg0sON-TXo4Kdqu00_YWNTwoZCUNz0nZSps0Eh71OjqGe-6A4Z10kE_KA36A2I9nPFspSBLouMFT8ADzqOBC62Veox3_TmyfqVuqhDmQ5jdG2v_Y5G2tg3zfzUx4TJpqwDjxKJkh5zm41ChcD9PhZ0Gds1rVG8PWjVxr2ZmQTqHg0yO2G1dO8tPKbh1MTb8k41jxogbz5Kwd8YcK3UrV6tIuGxVdiEzPDXRpppWH1_Cdb2YgtWWwnLw68oARuGae_Ja0pHYoUrkp00kd8M2b7ejLbUnSDAeRalnMzslmaX4stpdlXAtL2p4EZbvkxbG8vC1p7rwSJRpTa3-NPg6v2nv5Qv5tkRvAIjGLC8Yz0OuX6X7i9GD2JpyMl7-zGH12qyzdRn1EHvttoTeyxlbQLmFtMgcSHaQLyIGpPkB4ferIUI75_AsSoMsqYvRN7CTRD_PQg4lTATIqimBqJRq-8W30Qucs1thc9At99N4xXlLwjtkwW0wCQ0Gc4bIKolSjhRX1Ne_p6Lr4IDRR0HEy9w9ajGCxQmZYYdDaaSuh_Ulvk48L483yoNGKRl5Ca9rrmC3BXlguyln7pa6XQSJ8zftnB7YEkQnmrs4JacxlBcqxzUZNrD1CUjLxCaSotqeU58isaDPz2r4dQzGbM1KFUQiABKglldS13ZXN0LTIwsgw.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000120720635-ngtgtf-t240x240.jpg", group-title="Radio Rock", Metaleitor Radio
-https://live-stream.iblups.com/video/8d5a86cf2dbbeab174b79a758f0247603c894bd5.m3u8
