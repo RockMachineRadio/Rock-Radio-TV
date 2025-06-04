@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
+https://live-stream.iblups.com/video/d2662681dd70a04bf868384461f553d90fcd7352.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6R4icNJteyinEWbesaRCzu8B33cuKBOp0p-zmMDhv3PDJ2wx13sF8s2UoX9NpBVqX2y93J7ywIdEdsarqHGjIg3nWBgCi2Yy5he0dNliXuPiirL4698cvgHRMe7rZRXEKUnuGOgS7ab8/s220/logo+metaleitor.jpg", group-title="TV Rock", Metaleitor TV2
+https://live-stream.iblups.com/video/ba6bc9c962791b9b48f503a25c4a6c1f26728b2d.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/67cebad8d46fc668e21b0ae8387ae2cd.webp", group-title="TV Rock", ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
@@ -133,12 +139,3 @@ https://streaming2.elitecomunicacion.es:8066/stream
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioAlmenara/picture?width=200&height=200", group-title="Radio Local", Radio Almenara
 https://cervera.eldialdigital.com:25211/stream
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
-https://n9.cl/nvu03h
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6R4icNJteyinEWbesaRCzu8B33cuKBOp0p-zmMDhv3PDJ2wx13sF8s2UoX9NpBVqX2y93J7ywIdEdsarqHGjIg3nWBgCi2Yy5he0dNliXuPiirL4698cvgHRMe7rZRXEKUnuGOgS7ab8/s220/logo+metaleitor.jpg", group-title="TV Rock", Metaleitor TV2
-https://ok.ru/videoembed/10200652324429
-
-#EXTINF:-1 tvg-logo="https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-6/480554520_620913840695912_492601421810149986_n.jpg", group-title="TV Rock", Metaleitor TV3
-https://euw32.playlist.ttvnw.net/v1/playlist/CqkGlPHFLOhrLnSyPpa471QaDasN-jjwCBgi47MC36sgOwzJ_FcRDetR5-c2kZrg82X2-u_0kgo-PbWGk7zMJscQ8yh-rf0mhD794oidqCFnfCPhGDnjxhl6epqHAMTIWGMAejX95jafF7hexeSuNuQCy3kRxLCeX8kMx4bmzH9pNb8UapSmsq1VPUvPcKhgGAZ4QeiEmgx99tFtEmR2xDhHbgsQc8_7Ho6CJLHmTQd3PH-1wqe7lDhd1RaK8-yHFxrRMXTXrvTHUKB2Q5brhNxmRuwe01172diCTtH5YjOrcDJC3g9FIMLh49i2wU0280IHVl7MIdZ1FGbzsywCpa4s6cbw0tggMHq0uS99noCAEmdkbfTrG459HGveY_kwtBXYlICv9JIcoP9QC7VwWNrdeQ_8qU47vkqH4nTfC5xN7LWwDeH4cdClg0sON-TXo4Kdqu00_YWNTwoZCUNz0nZSps0Eh71OjqGe-6A4Z10kE_KA36A2I9nPFspSBLouMFT8ADzqOBC62Veox3_TmyfqVuqhDmQ5jdG2v_Y5G2tg3zfzUx4TJpqwDjxKJkh5zm41ChcD9PhZ0Gds1rVG8PWjVxr2ZmQTqHg0yO2G1dO8tPKbh1MTb8k41jxogbz5Kwd8YcK3UrV6tIuGxVdiEzPDXRpppWH1_Cdb2YgtWWwnLw68oARuGae_Ja0pHYoUrkp00kd8M2b7ejLbUnSDAeRalnMzslmaX4stpdlXAtL2p4EZbvkxbG8vC1p7rwSJRpTa3-NPg6v2nv5Qv5tkRvAIjGLC8Yz0OuX6X7i9GD2JpyMl7-zGH12qyzdRn1EHvttoTeyxlbQLmFtMgcSHaQLyIGpPkB4ferIUI75_AsSoMsqYvRN7CTRD_PQg4lTATIqimBqJRq-8W30Qucs1thc9At99N4xXlLwjtkwW0wCQ0Gc4bIKolSjhRX1Ne_p6Lr4IDRR0HEy9w9ajGCxQmZYYdDaaSuh_Ulvk48L483yoNGKRl5Ca9rrmC3BXlguyln7pa6XQSJ8zftnB7YEkQnmrs4JacxlBcqxzUZNrD1CUjLxCaSotqeU58isaDPz2r4dQzGbM1KFUQiABKglldS13ZXN0LTIwsgw.m3u8
