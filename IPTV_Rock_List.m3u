@@ -35,6 +35,9 @@ https://rockfm-cope.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-ijfed.nitrocdn.com/DtYdoFkTGLHFYfuSCOprrunYCajuUVPb/assets/images/optimized/rev-6e32f4c/mariskalrock.com/wp-content/themes/mariskalrock/img/backradio.jpg", group-title="Radio Rock", Mariskalrock Radio
 https://media.profesionalhosting.com:8047/stream
 
+#EXTINF:-1 tvg-logo="https://www.radio.es/300/lautfm-metal-hammer.png?version=44494e6eeee3dd6afbf70288734cea27", group-title="Radio Rock", Metal Hammer
+https://metal-hammer.stream.laut.fm/metal-hammer?ref=radiode&t302=2025-06-04_09-09-31&uuid=2831eda5-5868-4e85-90ce-2af59ba68f7d
+
 #EXTINF:-1 tvg-logo="https://laantiradio.com/wp-content/uploads/2025/01/la-antiradio-rock.-512jpg.jpg", group-title="Radio Rock", La Antiradio
 https://stream.zeno.fm/jkjslxjr7sntv
 
