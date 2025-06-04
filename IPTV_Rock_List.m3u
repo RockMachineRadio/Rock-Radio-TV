@@ -182,6 +182,18 @@ https://emisora.zonasinergia.com:7132/;
 #EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/radiofmtotalcuruzu.png", group-title="Radio Local", Radio Curuzu
 https://stream.zeno.fm/768krynkvg0uv.aac
 
+#EXTINF:-1 tvg-logo="https://www.radio.es/300/punkirratia.png?version=a9bd5f4c48072503cea148a35572a7ee", group-title="Radio Rock", Punk Irratia
+https://punkirratia.net:8443/punk
+
+#EXTINF:-1 tvg-logo="https://www.radio.es/300/pepe.png?version=c868b4608a570aa57af3918eda9a2ac2", group-title="Radio Local", Pepe Radio
+https://server7.emitironline.com:8000/;stream.nsv
+
+#EXTINF:-1 tvg-logo="http://radio.es/300/surcofm.png?version=582b3061a9aa2f22b40376adde9670b5", group-title="Radio Local", Surco FM
+https://carina.streamerr.co:8032/surco
+
+#EXTINF:-1 tvg-logo="https://www.radio.es/300/radioaktiva.png?version=30d5dd4b84ec2805e59e074dad92fcfd, group-title="Radio Rock", Radioaktiva
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVA.mp3
+
 #EXTINF:-1 tvg-logo="https://www.canalred.tv/media/canalred/images/2025/03/25/2025032516424966721.webp", group-title="TV Local", Canal Red TV España
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1749048482/ei/QghAaPKCKfqvi9oP9aOA2Qw/ip/2.138.140.245/id/KiTLIvfY19w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-h5q7kned.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOhFVB0uYJt9yY_cQ0xMwl8LiEV109gBKosp2S0AXywDhQzEtxBM7mFeRmX561Rb7skjJvjrKt6/spc/l3OVKak0-N_VqZ19pCuI0ncUL6IVgBadUU1TE0zg-cLZTjCiu5dQv-dRLBRx7AC0RJA/vprv/1/playlist_type/DVR/initcwndbps/1272500/met/1749026882,/mh/zC/mm/44/mn/sn-h5q7kned/ms/lva/mv/m/mvi/1/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1749026432/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhALX666cBbXP-vnV8YEBkVu0FgyNTkiYnJr27ianin7B7AiEAthH8fqcxfExJ229uPlEn9N24HgmuSETXThRVVEewbPc%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPsASbx4uKK5n_iVXPUVAQf-eRElQkDm5j7Cu3R1kug8AiBdcbKpP0Rn6Rz51GtJWTzLqAnrSL5fMPfcWqE95NdVyg%3D%3D/playlist/index.m3u8
 
