@@ -5,9 +5,6 @@ https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/playlist.m3u8?toke
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1025238374884552704/pCLaBm-I_400x400.jpg", group-title="Radio Rock", Matanza Radio
 https://stmvideo1.livecastv.com/matanzaradio/matanzaradio/chunklist_w278924926.m3u8
 
-#EXTINF:-1 tvg-logo="https://sevenrockradio.com/wp-content/uploads/2023/08/cropped-ICONO-REDONDO-e1721469695581.png", group-title="Radio Rock", Seven Rock
-https://sevenrockradio.com/wp-content/uploads/2024/09/FONDO-REPRO.mp4
-
 #EXTINF:-1 tvg-logo="https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png", group-title="TV Local", Radio Buñol TV
 https://castor.streamthatvideo.co:8081/radiobunyol/tracks-v1a1/mono.m3u8
 
@@ -76,6 +73,9 @@ https://radios.bachistreaming.com/8006/stream
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiovallekas/picture?width=200&height=200", group-title="Radio Rock", Radio Vallekas
 https://radio.radiobot.org/listen/rvk/rvk.mp3
+
+#EXTINF:-1 tvg-logo="https://sevenrockradio.com/wp-content/uploads/2023/08/cropped-ICONO-REDONDO-e1721469695581.png", group-title="Radio Rock", Seven Rock
+https://c30.radioboss.fm/stream/569
 
 #EXTINF:-1 tvg-logo="https://www.agorasolradio.org/wp-content/themes/agorasolradio/css/img/favicon.png", group-title="Radio Local", Agora Sol Radio
 https://cervera.eldialdigital.com:23141/stream
