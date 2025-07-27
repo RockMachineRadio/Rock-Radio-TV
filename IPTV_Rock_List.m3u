@@ -65,6 +65,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/FmRockandPop/picture?width=200&height=200", group-title="Radio Rock", FM Rock & Pop Argentina
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6Hl-wJkPVTn632VIisYtBhw47ShxrjhArg&s", group-title="Radio Rock", La Cripta Radio
+https://sonicpanel.streamsolutions.us/cp/widgets/player/single/?p=8032
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1616586960155418624/6OJ_HUNq_400x400.jpg", group-title="Radio Rock", Rock y Terror Radio Texas
 https://stream.zeno.fm/wp1aw2pbtsyvv?an-uid=5999464252603886559
 
