@@ -6,15 +6,12 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/playlist.m3u8?token=b7bb9c08-d593-48a2-bfd7-33018b14b3e5&streamSessionId=ba355f08-3131-4759-8486-06cb1a3b6a9a&code=TELEATLANTIC&expires=1740700800000&playUrl=true&ctrl=1ea95bb1f349796e630acdfb68d98c14daa1f7a6efae55f7f8de0c78c46486fec8dff525fb500aed030f0e29790d82e84550600a9bab5831739e5162e63bf604
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
-https://live-stream.iblups.com/video/d2662681dd70a04bf868384461f553d90fcd7352.m3u8
 http://ok.ru/videoembed/10336335306317
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6R4icNJteyinEWbesaRCzu8B33cuKBOp0p-zmMDhv3PDJ2wx13sF8s2UoX9NpBVqX2y93J7ywIdEdsarqHGjIg3nWBgCi2Yy5he0dNliXuPiirL4698cvgHRMe7rZRXEKUnuGOgS7ab8/s220/logo+metaleitor.jpg", group-title="TV Rock", Metaleitor TV2
-https://live-stream.iblups.com/video/ba6bc9c962791b9b48f503a25c4a6c1f26728b2d.m3u8
 http://ok.ru/videoembed/10347738177101
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000120720635-ngtgtf-t240x240.jpg", group-title="Radio Rock", Metaleitor Radio
-https://live-stream.iblups.com/video/8d5a86cf2dbbeab174b79a758f0247603c894bd5.m3u8
 http://ok.ru/videoembed/10200671133261
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1025238374884552704/pCLaBm-I_400x400.jpg", group-title="Radio Rock", Matanza Radio
@@ -211,3 +208,15 @@ https://www.youtube.com/watch?v=Z2imbeJJbjc
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/W9t2tsccN1nVAC4H7" , group-title="TV Rock", Rock Machine Radio-TV
 https://www.youtube.com/watch?v=3Tbzxn8M6RY&list=PLDBuv7RX9rDRB67P6DZ4WR7WZwZ9lDMas
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
+https://live-stream.iblups.com/video/d2662681dd70a04bf868384461f553d90fcd7352.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6R4icNJteyinEWbesaRCzu8B33cuKBOp0p-zmMDhv3PDJ2wx13sF8s2UoX9NpBVqX2y93J7ywIdEdsarqHGjIg3nWBgCi2Yy5he0dNliXuPiirL4698cvgHRMe7rZRXEKUnuGOgS7ab8/s220/logo+metaleitor.jpg", group-title="TV Rock", Metaleitor TV2
+https://live-stream.iblups.com/video/ba6bc9c962791b9b48f503a25c4a6c1f26728b2d.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000120720635-ngtgtf-t240x240.jpg", group-title="Radio Rock", Metaleitor Radio
+https://live-stream.iblups.com/video/8d5a86cf2dbbeab174b79a758f0247603c894bd5.m3u8
+
+
+
