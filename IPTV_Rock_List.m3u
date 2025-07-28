@@ -48,7 +48,7 @@ https://server10.reliastream.com/proxy/metalprj?mp=/stream
 https://uk14freenew.listen2myradio.com/live.mp3?typeportmount=s1_23863_stream
 
 #EXTINF:-1 tvg-logo="https://elpirata.com/wp-content/themes/yootheme/cache/31/Banner-315ad728.png", group-title="Radio Rock", Emisión Pirata
-https://shaincast.caster.fm:15669/listen.mp3
+https://shaincast.caster.fm:15669/listen.mp3?authnd6392e04ffe61769d70a49d015458a67
 
 #EXTINF:-1 tvg-logo="https://templariaradio.com/wp-content/uploads/2025/03/cropped-cropped-logotipo-2025-recortado-copia-1.png", group-title="Radio Rock", Templaria Radio
 https://emisiones.com.uy:8152/enlace
