@@ -119,6 +119,9 @@ http://84.232.12.14:8000/caravacaradio
 #EXTINF:-1 tvg-logo="https://player.lcinternet.es/v9/cc409_p736/tmp/images/default.jpg", group-title="Radio Local", Onda Marina Radio
 https://srv7031.dns-lcinternet.com/8052/stream
 
+#EXTINF:-1 tvg-logo="https://vinylstation.es/images/logos/logo%20vinylstation.png", group-title="Radio Rock", Vinyl Station
+https://stream-167.zeno.fm/4g7qxnxrloluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZzdxeG54cmxvbHV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkZWeE5LSlphUTNXejY0dUlMQXpXMWciLCJpYXQiOjE3NTQyNDI2MzUsImV4cCI6MTc1NDI0MjY5NX0._AzqJ4YN2cnlrsMgxBxC-WFjD9-Y3DJMxJu6LuCRkOc
+
 #EXTINF:-1 tvg-logo="https://www.edmradio.es/wp-content/uploads/2017/10/cropped-cropped-cropped-master-edm-trasparente-1.png", group-title="Radio Local", EDM Radio
 https://c22.radioboss.fm:8653/stream
 
