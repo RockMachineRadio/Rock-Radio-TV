@@ -213,7 +213,7 @@ https://www.youtube.com/watch?v=Z2imbeJJbjc
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/W9t2tsccN1nVAC4H7" , group-title="TV Rock", Rock Machine Radio-TV
 https://www.youtube.com/watch?v=3Tbzxn8M6RY&list=PLDBuv7RX9rDRB67P6DZ4WR7WZwZ9lDMas
 
-#EXTINF:-1 tvg-logo="https://www.therockpit.net/wp-content/uploads/2021/07/heavymetaltelevision-768x538.jpg" , group-title="TV Rock",,Heavy Metal Tv 
+#EXTINF:-1 tvg-logo="https://www.therockpit.net/wp-content/uploads/2021/07/heavymetaltelevision-768x538.jpg" , group-title="TV Rock", Heavy Metal Tv 
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:MTV_2021_(brand_version).svg", group-title="TV Rock", MTV ROCKS FHD 
