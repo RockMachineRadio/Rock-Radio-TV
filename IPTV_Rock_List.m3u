@@ -1,12 +1,15 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
+http://ok.ru/videoembed/10336335306317
+
+http://51.91.73.99:25461/spain/XDWu1KatRP/21780  484    #EXTINF:-1,ES: MTV ESPAÑA  485    http://51.91.73.99:25461/spain/XDWu1KatRP/21781  486    #EXTINF:-1,ES: MTV ROCKS FHD
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/67cebad8d46fc668e21b0ae8387ae2cd.webp", group-title="TV Rock", ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pulserocktv.com/logos/600X140.jpg", group-title="TV Rock", Pulse Rock TV
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/playlist.m3u8?token=b7bb9c08-d593-48a2-bfd7-33018b14b3e5&streamSessionId=ba355f08-3131-4759-8486-06cb1a3b6a9a&code=TELEATLANTIC&expires=1740700800000&playUrl=true&ctrl=1ea95bb1f349796e630acdfb68d98c14daa1f7a6efae55f7f8de0c78c46486fec8dff525fb500aed030f0e29790d82e84550600a9bab5831739e5162e63bf604
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
-http://ok.ru/videoembed/10336335306317
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6R4icNJteyinEWbesaRCzu8B33cuKBOp0p-zmMDhv3PDJ2wx13sF8s2UoX9NpBVqX2y93J7ywIdEdsarqHGjIg3nWBgCi2Yy5he0dNliXuPiirL4698cvgHRMe7rZRXEKUnuGOgS7ab8/s220/logo+metaleitor.jpg", group-title="TV Rock", Metaleitor TV2
 http://ok.ru/videoembed/10347738177101
@@ -19,6 +22,12 @@ https://stmvideo1.livecastv.com/matanzaradio/matanzaradio/chunklist_w278924926.m
 
 #EXTINF:-1 tvg-logo="https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png", group-title="TV Local", Radio Buñol TV
 https://castor.streamthatvideo.co:8081/radiobunyol/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6Hl-wJkPVTn632VIisYtBhw47ShxrjhArg&s", group-title="Radio Rock", La Cripta Radio
+https://sonicpanel.streamsolutions.us/8032/stream
+
+#EXTINF:-1 tvg-logo="https://laantiradio.com/wp-content/uploads/2025/01/la-antiradio-rock.-512jpg.jpg", group-title="Radio Rock", La Antiradio
+https://stream.zeno.fm/jkjslxjr7sntv
 
 #EXTINF:-1 tvg-logo="https://sifmradio.es/wp-content/uploads/2021/01/logoemisora-370x370.jpg", group-title="Radio Rock", SI F.M.
 https://broadcast.radioponiente.org:8030/;stream.nsv
@@ -34,9 +43,6 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 tvg-logo="https://www.radio.es/300/lautfm-metal-hammer.png?version=44494e6eeee3dd6afbf70288734cea27", group-title="Radio Rock", Metal Hammer
 https://metal-hammer.stream.laut.fm/metal-hammer?ref=radiode&t302=2025-06-04_09-09-31&uuid=2831eda5-5868-4e85-90ce-2af59ba68f7d
-
-#EXTINF:-1 tvg-logo="https://laantiradio.com/wp-content/uploads/2025/01/la-antiradio-rock.-512jpg.jpg", group-title="Radio Rock", La Antiradio
-https://stream.zeno.fm/jkjslxjr7sntv
 
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/ie_qxoMXROspWazDj7vVbYNO6X5eFb3J78ICHlimVD5B0g3M7L7_vWsPVDP2GvDMnISUzRwnvvNE8grSm0p2KEs=w16383", group-title="Radio Rock", Depredarock
 https://aacplus.rstreaminghd.com/8036/stream
@@ -64,9 +70,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/FmRockandPop/picture?width=200&height=200", group-title="Radio Rock", FM Rock & Pop Argentina
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6Hl-wJkPVTn632VIisYtBhw47ShxrjhArg&s", group-title="Radio Rock", La Cripta Radio
-https://sonicpanel.streamsolutions.us/8032/stream
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1616586960155418624/6OJ_HUNq_400x400.jpg", group-title="Radio Rock", Rock y Terror Radio Texas
 https://stream.zeno.fm/wp1aw2pbtsyvv?an-uid=5999464252603886559
