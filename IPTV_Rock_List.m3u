@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
 http://ok.ru/videoembed/10336335306317
 
-http://51.91.73.99:25461/spain/XDWu1KatRP/21780  484    #EXTINF:-1,ES: MTV ESPAÑA  485    http://51.91.73.99:25461/spain/XDWu1KatRP/21781  486    #EXTINF:-1,ES: MTV ROCKS FHD
+#EXTINF:-1  tvg-logo="https://commons.wikimedia.org/wiki/File:MTV_2021_(brand_version).svg", group-title="TV Rock", MTV ROCKS FHD 
+http://51.91.73.99:25461/spain/XDWu1KatRP/21781 
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/67cebad8d46fc668e21b0ae8387ae2cd.webp", group-title="TV Rock", ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
