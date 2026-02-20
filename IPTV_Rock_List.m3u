@@ -21,6 +21,9 @@ https://stmvideo1.livecastv.com/matanzaradio/matanzaradio/chunklist_w278924926.m
 #EXTINF:-1 tvg-logo="https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png", group-title="TV Local", Radio Buñol TV
 https://castor.streamthatvideo.co:8081/radiobunyol/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/cdn-cgi/image//app/cms/storage/image/path/s2975e5940e3803c0/image/i8aee16652df492f5/version/1767954604/image.png", group-title="Radio Rock", La Cripta Radio
+https://sonicpanel.streamsolutions.us/8088/stream
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6Hl-wJkPVTn632VIisYtBhw47ShxrjhArg&s", group-title="Radio Rock", La Cripta Radio
 https://sonicpanel.streamsolutions.us/8032/stream
 
