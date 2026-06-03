@@ -12,11 +12,8 @@ https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/playlist.m3u8?toke
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6Hl-wJkPVTn632VIisYtBhw47ShxrjhArg&s", group-title="Radio Rock", La Cripta Radio
 https://sonicpanel.streamsolutions.us/8032/stream
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1030549761424805888/s0JlY8Wx_400x400.jpg", group-title="Radio Rock", Radio San Nicasio Distrito Rock
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1030549761424805888/s0JlY8Wx_400x400.jpg", group-title="Radio Rock", Radio San Nicasio Distrito Rock / 100xRock
 https://stream.zeno.fm/sx4d0j3lo0ctv
-
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/cdn-cgi/image//app/cms/storage/image/path/s2975e5940e3803c0/image/i8aee16652df492f5/version/1767954604/image.png", group-title="Radio Rock", 100xRock
-https://sonicpanel.streamsolutions.us/8088/stream
 
 #EXTINF:-1 tvg-logo="https://sifmradio.es/wp-content/uploads/2021/01/logoemisora-370x370.jpg", group-title="Radio Rock", SI F.M.
 https://broadcast.radioponiente.org:8030/;stream.nsv
@@ -209,3 +206,6 @@ https://carina.streamerr.co:8032/surco
 
 #EXTINF:-1 tvg-logo="https://www.radio.es/300/radioaktiva.png?version=30d5dd4b84ec2805e59e074dad92fcfd, group-title="Radio Rock", Radioaktiva
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVA.mp3
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/cdn-cgi/image//app/cms/storage/image/path/s2975e5940e3803c0/image/i8aee16652df492f5/version/1767954604/image.png", group-title="Radio Rock", Radio
+https://sonicpanel.streamsolutions.us/8088/stream
