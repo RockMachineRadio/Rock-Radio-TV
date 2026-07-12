@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
-http://ok.ru/videoembed/10336335306317
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/67cebad8d46fc668e21b0ae8387ae2cd.webp", group-title="TV Rock", ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
@@ -29,6 +26,9 @@ https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 tvg-logo="https://www.radio.es/300/lautfm-metal-hammer.png?version=44494e6eeee3dd6afbf70288734cea27", group-title="Radio Rock", Metal Hammer
 https://metal-hammer.stream.laut.fm/metal-hammer?ref=radiode&t302=2025-06-04_09-09-31&uuid=2831eda5-5868-4e85-90ce-2af59ba68f7d
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468", group-title="TV Rock", Metaleitor TV1
+http://ok.ru/videoembed/10336335306317
 
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/ie_qxoMXROspWazDj7vVbYNO6X5eFb3J78ICHlimVD5B0g3M7L7_vWsPVDP2GvDMnISUzRwnvvNE8grSm0p2KEs=w16383", group-title="Radio Rock", Depredarock
 https://aacplus.rstreaminghd.com/8036/stream
