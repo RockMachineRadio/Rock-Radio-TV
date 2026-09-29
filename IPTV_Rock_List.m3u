@@ -64,7 +64,7 @@ http://ok.ru/videoembed/10200671133261
 https://stmvideo1.livecastv.com/matanzaradio/matanzaradio/chunklist_w278924926.m3u8
 
 #EXTINF:-1 tvg-logo="https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png", group-title="TV Local", Radio Buñol TV
-https://castor.streamthatvideo.co:8081/radiobunyol/tracks-v1a1/mono.m3u8
+https://radiotvbunollive.flumotion.cloud/radiotvbunollive/smil:channel1.smil/chunklist_b300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvN1Kid9qm0kPE4zLfamg_IJ5GgEOEUHU8L76RjwwOGEz2F-Ujdof5cSQ&s=10", group-title="TV Rock", Blue Rock Radio Pioneros
 https://uk5freenew.listen2myradio.com/live.mp3?typeportmount=s1_33103_stream_735016252
