@@ -45,7 +45,7 @@ https://emisiones.com.uy:8152/enlace
 #EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=861,h=558,fit=crop/YbN9nXoOXQtzMy6E/beerman-club-radio-logo3-AGB4v8rxbMFzkqa5.png", group-title="Radio Rock", The Beerman Club
 https://stream-166.zeno.fm/0tycopnkzcqvv
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200", group-title="Radio Rock", Radio 3 RNE
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/1280px-RNE_Radio_3_2026.svg.png", group-title="Radio Rock", Radio 3 RNE
 https://www.rtve.es/play/audios/programa/rne-rne3-live/1712469/
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200", group-title="Radio Rock", LOS40 Classic
